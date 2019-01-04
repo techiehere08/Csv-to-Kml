@@ -51,4 +51,4 @@ This code is a nice simple application that will convert csv files with lat/long
    #### A file name gui.kml will be generate launch in via google earth.
    
    # Output
-   ![OUTPUT] (https://github.com/anandhere8/Csv-to-Kml/blob/master/output/github.png)
+   ![OUTPUT](https://github.com/anandhere8/Csv-to-Kml/blob/master/output/github.png)
