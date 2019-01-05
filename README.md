@@ -48,7 +48,7 @@ This code is a nice simple application that will convert csv files with lat/long
 ## After installing all of the above
    #### run the csvtokmlgui.py via python3
     ``` python3 csvtokmlgui.py ```
-   #### A file name gui.kml will be generate launch in via google earth.
+   #### A file name gui.kml will be generated launch it via google earth.
    
    # Output
    ![OUTPUT](https://github.com/anandhere8/Csv-to-Kml/blob/master/output/github.png)
